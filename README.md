@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Skysbed
-- 👀 I’m interested in Rnd on Electrical Appliances
+- 👀 I’m interested in Rnd on Electrical Devices
 - 🌱 I’m currently learning Physics/Engeenering 
 - 📫 How to reach me Dhruvsharmayt@outlook.com
 - 😄 Pronouns: He/Him
