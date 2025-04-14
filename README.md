@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Skysbed
-- 👀 I’m interested in Electrical Eng
+- 👀 I’m interested in Rnd on Electrical Appliances
 - 🌱 I’m currently learning Physics/Engeenering 
 - 📫 How to reach me Dhruvsharmayt@outlook.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Am Steve
 
 <!---
