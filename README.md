@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Skysbed
-- 👀 I’m interested in Rnd on General Electrical Eng
-- 🌱 I’m currently learning Physics/Engeenering 
-- 📫 How to reach me Dhruvsharmayt@outlook.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I Am Steve
+Software Developer | Problem Solver  
 
-<!---
-Skysbed/Skysbed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about building scalable applications and clean user experiences.  
+Currently learning AI and building my first plugin through hands-on experimentation and rapid prototyping.  
+
+Focused on writing efficient, maintainable code and continuously improving through real-world projects.  
+
+Currently working on personal and open-source projects  
+Learning advanced system design, cloud architecture, and artificial intelligence  
+Open to collaboration and innovative ideas  
+
